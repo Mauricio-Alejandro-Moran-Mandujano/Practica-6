@@ -1,0 +1,5 @@
+.env
+venv/
+walmart_sales.csv
+walmart_sales_clean.csv
+__pycache__/
